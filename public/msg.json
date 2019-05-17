@@ -1,0 +1,9 @@
+[
+    {"genre": "上衣", "sold" : 275 },
+    {"genre":"篮球", "sold" : 345} ,
+    {"genre":"足球" ,"sold" : 123} ,
+    { "genre":"排球", "sold" : 20},
+    {"genre":"羽毛球","sold" : 149},
+    {"genre":"其他", "sold" : 302},
+    {"genre":"无", "sold" : 201}
+]

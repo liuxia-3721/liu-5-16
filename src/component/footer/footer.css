@@ -1,0 +1,14 @@
+@charset "utf-8" ;
+/* #footer ul{
+    display: flex;
+    justify-content: space-around;
+    padding: 0 30px;
+    box-sizing: border-box
+}
+#footer ul li a.bg:hover{
+    color: #00f
+} */
+
+#footer{
+    padding-left: 100px;
+}
